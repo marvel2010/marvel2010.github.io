@@ -1,5 +1,6 @@
 ---
-title: test page
+title: test_page
+theme: jekyll-theme-cayman
 ---
 
 # Hello World
