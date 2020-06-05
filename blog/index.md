@@ -1,6 +1,5 @@
 ---
 title: index_page
-theme: jekyll-theme-cayman
 ---
 
 # Hello Index
