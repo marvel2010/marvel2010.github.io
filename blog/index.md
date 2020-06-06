@@ -1,9 +1,7 @@
 ---
-title: index_page
+title: Mark's Blog
 ---
 
-# Hello Index
+# Blog Posts
 
-Link to the test page.
-
-[Here](test.md) is the link.
+[Here](test.md) test post.
