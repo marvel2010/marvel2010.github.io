@@ -2,6 +2,6 @@
 title: Mark's Blog
 ---
 
-# Blog Posts
+### Blog Posts
 
-[Here](test.md) test post.
+**June 2020**: [A reflection on graduate school](gradreflect.md).
