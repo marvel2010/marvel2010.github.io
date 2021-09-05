@@ -6,4 +6,4 @@ title: Mark's Blog
 
 **June 2020**: [A reflection on graduate school](gradreflect.md).
 
-**September 2021**: [A Gentle Introduction to Electric Vehicles](electricvehicles.md).
+**September 2021**: [A gentle introduction to electric vehicles](electricvehicles.md).
