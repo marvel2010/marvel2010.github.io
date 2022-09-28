@@ -2,6 +2,7 @@
 title: Electric Vehicles - Frequently Asked Questions
 ---
 # Electric Vehicles - Frequently Asked Questions
+[Mark's Blog](index.md)
 
 ### Context
 Ever since I wrote a blog post last year about our experience owning an electric vehicle as our only vehicle, a lot of people have asked me questions about buying an electric car. This short post is an attempt to distill the most useful messages from my previous post into a single FAQ page.

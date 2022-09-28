@@ -2,6 +2,7 @@
 title: Graduate School Reflection
 ---
 # Graduate School Reflection
+[Mark's Blog](index.md)
 
 ### Abstract
 In this document, I’ve written out my thoughts on graduate school. It is a mix of reflections on my own experience and advice for new graduate students. It was hard to separate, so I just mashed it all together. It’s like a delicious reflection soup. Yum! It was too long to post in a TikTok video, so if you want the whole story you’ll have to read it. Sue me. Actually, please don’t.

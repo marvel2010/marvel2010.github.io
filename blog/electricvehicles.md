@@ -2,6 +2,7 @@
 title: A Gentle Introduction to Electric Vehicles (EVs)
 ---
 # A Gentle Introduction to Electric Vehicles (EVs)
+[Mark's Blog](index.md)
 
 ### Purpose
 In June 2020, my wife and I bought our first car: a fully electric 2018 Nissan Leaf. We did not know anyone who relied on an Electric Vehicle (EV) as their primary vehicle, so we had relatively little insight into the nuances of EV ownership. Where would we charge the car? How good was the range? We opted for a “Meh, we’ll figure it out as we go” approach. 
