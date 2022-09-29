@@ -34,6 +34,7 @@ There are three types of charging, conveniently named level 1 ("trickle"), level
 * Level 1 charging adds ~1.5 kWh to your car per hour [~5 miles of range added per hour, ~40 hours to full charge]. You can level 1 charge from any wall outlet. It is slow but extremely versatile.
 * Level 2 charging adds ~6 kWh to your car per hour [~20 miles of range added per hour, ~10 hours to full charge]. You can install a level 2 charging station at home. It is considered "normal" charging since it will completely charge your car overnight. Outside of homes, you can find these chargers at offices, hotels, restaurants, and other places where you typically spend a few hours.
 * Level 3 charging adds ~2 kWh to your car per minute [~7 miles of range added per minute, 30 minutes to full charge]. These stations are very powerful. You will probably only use this kind of charging on road trips. These are typically installed along highways.
+
 Level 1 and 2 charging is completely universal: all cars use the same standard. For level 3 charging, every new EV except for Teslas uses the same standard, called CCS.
 
 ### How do I shop for an EV?
