@@ -1,5 +1,5 @@
 ---
-title: Electric Vehicles: An Update for 2025
+title: Electric Vehicles - An Update for 2025
 ---
 
 # Electric Vehicles: An Update for 2025
