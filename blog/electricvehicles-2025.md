@@ -66,8 +66,7 @@ Here are my top recommendations for 2025:
 * **Sedans & Hatchbacks**: For something a bit sleeker, check out the **Hyundai Ioniq 6** or the **Ford Mustang Mach-E**.
 * **SUVs**: If you’re after a ride with more space, the **Hyundai Ioniq 5** is an excellent choice.
 * **Trucks**: For utility and power, the **Ford F-150** Lightning delivers all the benefits of a traditional truck but with an electric drivetrain.
-
-The biggest news for 2025? Three-row SUVs and electric minivans are finally hitting the market, offering even more choices for larger families or those who need extra space. Models like the **Volkswagen ID Buzz**, **Kia EV9**, and **Hyundai Ioniq 9** are leading the charge in this category (put again intended).
+* **Minivans**: The biggest news for 2025? Three-row SUVs and electric minivans are finally hitting the market, offering even more choices for larger families or those who need extra space. Models like the **Volkswagen ID Buzz**, **Kia EV9**, and **Hyundai Ioniq 9** are leading the charge in this category (put again intended).
 
 With so many options, EVs are no longer niche vehicles—they’re mainstream. Whether you’re looking for a commuter car, a weekend adventure vehicle, or something to haul the whole family, there’s likely an EV that fits your lifestyle.
 
