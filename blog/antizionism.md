@@ -2,10 +2,10 @@
 title: Anti-Zionism is Anti-Semitism
 ---
 
+*The views and opinions expressed in this essay are solely those of the author and do not necessarily reflect the official policy or position of any other entity or organization.*
+
 # Anti-Zionism is Anti-Semitism
 [Mark's Blog](index.md)
-
-*The views and opinions expressed in this essay are solely those of the author and do not necessarily reflect the official policy or position of any other entity or organization.*
 
 “Anti-Zionism is not Anti-Semitism.” If you don’t know much about Jews and Israel, that sounds like a harmless statement, right? Zionism is, like, “Israel-adjacent stuff,” right? So if you disagree with Israeli government policy, that’s anti-Zionist but not anti-semitic. What’s the big deal?
 
