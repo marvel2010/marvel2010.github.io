@@ -2,10 +2,10 @@
 title: Fundamental Forces of the Middle East
 ---
 
+*The views and opinions expressed in this essay are solely those of the author and do not necessarily reflect the official policy or position of any other entity or organization.*
+
 # Fundamental Forces of the Middle East
 [Mark's Blog](index.md)
-
-*The views and opinions expressed in this essay are solely those of the author and do not necessarily reflect the official policy or position of any other entity or organization.*
 
 Trying to keep up with the news coming out of Israel and its neighbors in 2024 felt like a second full-time job. I tried it. It was not exactly “fun,” but I felt it was important. 
 
