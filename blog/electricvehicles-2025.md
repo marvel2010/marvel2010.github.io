@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Electric Vehicles - An Update for 2025
 ---
 
 # Electric Vehicles: An Update for 2025
-[Mark's Blog](index.md)
+[Mark's Blog](/blog/)
 
 Well, it’s official. I’ve gone from “the guy who bought an EV three years ago and had no idea what he was doing” to “the guy who evangelizes EVs all the time to friends, co-workers, neighbors, and anyone who will pay attention to him for more than five minutes.” If you’ve made it this far, congratulations - you’re the latest recruit!
 

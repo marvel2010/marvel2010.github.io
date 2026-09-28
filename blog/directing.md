@@ -1,8 +1,9 @@
 ---
+layout: post
 title: How to Direct a Play
 ---
 # How to Direct a Play
-[Mark's Blog](index.md)
+[Mark's Blog](/blog/)
 
 ### Context
 Acting has been a hobby of mine since I was a small kid. From high school through college, I acted in at least three shows a year. Since college, I have done less acting and forayed into directing. I have found that I enjoy directing as much as I enjoyed acting, if not more. Last year, I directed two short plays at play festivals celebrating new works.

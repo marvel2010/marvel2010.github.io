@@ -1,20 +1,18 @@
 ---
-title: Mark's Blog
+layout: default
+title: Blog
+description: Essays and notes by Mark Velednitsky.
 ---
 
-### Blog Posts
-
-**June 2020**: [A reflection on graduate school](gradreflect.md).
-
-**September 2021**: [A gentle introduction to electric vehicles](electricvehicles.md).
-
-**September 2022**: [Electric vehicles - frequently asked questions](electricvehicles-faq.md).
-
-**March 2023**: [How to direct a play](directing.md).
-
-**December 2024**: [Electric Vehicles: An Update for 2025](electricvehicles-2025.md).
-
-**January 2025**: [Anti-Zionism is anti-semitism](antizionism.md).
-
-**January 2025**: [Fundamental Forces of the Middle East](middle-east-forces.md).
- 
+<div class="card">
+   <h2>Blog posts</h2>
+   <ul class="blog-list">
+     <li><span class="date">Jan 2025</span><span class="entry"><a href="middle-east-forces.html">Fundamental Forces of the Middle East</a></span></li>
+     <li><span class="date">Jan 2025</span><span class="entry"><a href="antizionism.html">Anti-Zionism is anti-semitism</a></span></li>
+     <li><span class="date">Dec 2024</span><span class="entry"><a href="electricvehicles-2025.html">Electric Vehicles: An Update for 2025</a></span></li>
+     <li><span class="date">Mar 2023</span><span class="entry"><a href="directing.html">How to direct a play</a></span></li>
+     <li><span class="date">Sep 2022</span><span class="entry"><a href="electricvehicles-faq.html">Electric vehicles — frequently asked questions</a></span></li>
+     <li><span class="date">Sep 2021</span><span class="entry"><a href="electricvehicles.html">A gentle introduction to electric vehicles</a></span></li>
+     <li><span class="date">Jun 2020</span><span class="entry"><a href="gradreflect.html">A reflection on graduate school</a></span></li>
+   </ul>
+</div>

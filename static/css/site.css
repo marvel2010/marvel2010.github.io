@@ -1,0 +1,206 @@
+/* Mark Velednitsky — personal site theme
+   Self-contained, no external CDNs. Mobile-first, respects the OS dark mode. */
+
+:root {
+  --accent: #0d7d84;
+  --accent-soft: #e5f2f3;
+  --bg: #ffffff;
+  --bg-soft: #f4f6f7;
+  --text: #1b2733;
+  --muted: #5b6b78;
+  --border: #e2e7ea;
+  --shadow: 0 1px 3px rgba(16, 24, 40, .06), 0 8px 24px rgba(16, 24, 40, .06);
+  --radius: 12px;
+  --maxw: 820px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --accent: #34c0cc;
+    --accent-soft: #0f2a2e;
+    --bg: #0f141a;
+    --bg-soft: #161d26;
+    --text: #e6edf3;
+    --muted: #9aa7b4;
+    --border: #26303b;
+    --shadow: 0 1px 3px rgba(0, 0, 0, .4), 0 8px 24px rgba(0, 0, 0, .35);
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg-soft);
+  color: var(--text);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ---- Nav ---- */
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 24px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: saturate(180%) blur(8px);
+}
+.nav .brand {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--text);
+}
+.nav .brand:hover { text-decoration: none; }
+.nav .links {
+  display: flex;
+  gap: 18px;
+  font-size: .95rem;
+  flex-wrap: wrap;
+}
+.nav .links a { color: var(--muted); }
+.nav .links a:hover { color: var(--accent); text-decoration: none; }
+
+/* ---- Layout ---- */
+main {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 32px 24px 56px;
+}
+
+/* ---- Identity / hero ---- */
+.identity {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 28px;
+  flex-wrap: wrap;
+}
+.identity img {
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--accent-soft);
+  box-shadow: var(--shadow);
+}
+.identity h1 { margin: 0 0 2px; font-size: 1.9rem; }
+.identity .role { margin: 0; color: var(--muted); font-size: 1.05rem; }
+.identity .loc { margin: 4px 0 0; color: var(--muted); font-size: .9rem; }
+.identity .quick { margin: 12px 0 0; font-size: .9rem; }
+.identity .quick a { margin-right: 16px; }
+
+/* ---- Cards / sections ---- */
+.card {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 24px 28px;
+  margin-bottom: 24px;
+}
+.card h2 {
+  margin: 0 0 14px;
+  font-size: .85rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 700;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 10px;
+}
+.card p { margin: 0 0 12px; }
+.card p:last-child { margin-bottom: 0; }
+
+/* ---- Publications ---- */
+.pubs { list-style: none; margin: 0; padding: 0; }
+.pubs li {
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+}
+.pubs li:last-child { border-bottom: none; }
+.pubs .title { font-weight: 600; color: var(--text); }
+.pubs .venue { color: var(--muted); font-size: .92rem; font-style: italic; }
+.pubs .links { margin-top: 6px; font-size: .9rem; }
+.pubs .links a + a { margin-left: 16px; }
+.pubs .links a + a::before {
+  content: "·";
+  color: var(--muted);
+  margin-right: 16px;
+}
+.pubs .more { margin-top: 16px; font-weight: 600; }
+
+/* ---- Blog list ---- */
+.blog-list { list-style: none; margin: 0; padding: 0; }
+.blog-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+}
+.blog-list li:last-child { border-bottom: none; }
+.blog-list .date { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+.blog-list .entry a { font-weight: 600; }
+
+/* ---- Link list (homepage hub) ---- */
+.link-list { list-style: none; margin: 0; padding: 0; }
+.link-list li { border-bottom: 1px solid var(--border); }
+.link-list li:last-child { border-bottom: none; }
+.link-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 14px 0;
+  font-size: 1.05rem;
+  color: var(--text);
+}
+.link-list a:hover { text-decoration: none; color: var(--accent); }
+.link-list .lbl { font-weight: 600; }
+.link-list .hint { color: var(--muted); font-size: .9rem; }
+
+/* ---- Article (blog post) ---- */
+.article {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 32px 36px;
+}
+.article > :first-child { margin-top: 0; }
+.article h1 { font-size: 1.8rem; }
+.article h2 { margin-top: 1.8em; }
+.article pre {
+  background: var(--bg-soft);
+  padding: 12px 14px;
+  border-radius: 8px;
+  overflow-x: auto;
+}
+.article .back { display: inline-block; margin-bottom: 16px; font-size: .9rem; color: var(--muted); }
+
+/* ---- Footer ---- */
+footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: .85rem;
+  padding: 28px 24px 40px;
+}
+footer a { color: var(--muted); }
+
+/* ---- Small screens ---- */
+@media (max-width: 600px) {
+  .identity { justify-content: center; text-align: center; }
+  .identity .quick a { margin-right: 10px; }
+  .article { padding: 22px 18px; }
+  .blog-list li { flex-direction: column; gap: 4px; }
+}
